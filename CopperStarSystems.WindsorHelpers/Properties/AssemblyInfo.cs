@@ -1,5 +1,8 @@
-﻿// CopperStarSystems.WindsorHelpers.AssemblyInfo.cs
-// Created:  02-09-2016
+﻿// --------------------------------------------------------------------------------------
+// <copyright file="AssemblyInfo.cs" company="Copper Star Systems, LLC">
+//    Copyright 2016 Copper Star Systems, LLC. All Rights Reserved.
+// </copyright>
+// --------------------------------------------------------------------------------------
 
 using System.Reflection;
 using System.Runtime.InteropServices;

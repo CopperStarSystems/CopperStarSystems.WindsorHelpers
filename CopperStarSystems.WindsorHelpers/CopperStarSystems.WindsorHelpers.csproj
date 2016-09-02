@@ -48,6 +48,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="AssemblyInstallerBase.cs" />
+    <Compile Include="CustomAttributes\AttributeHelper.cs" />
+    <Compile Include="CustomAttributes\InjectPropertyAttribute.cs" />
+    <Compile Include="CustomAttributes\WindsorFactoryAttribute.cs" />
+    <Compile Include="CustomAttributes\WindsorSingletonAttribute.cs" />
+    <Compile Include="ExplicitPropertyDependenciesModelInspector.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
